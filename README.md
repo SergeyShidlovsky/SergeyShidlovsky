@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShidlovsky&layout=compact)](https://github.com/SergeyShidlovsky/github-readme-stats)
 
 
-<h3 align="left">Contacts</h3>
+<h2 align="left">Contacts</h3>
 <p align="left"> 
 <a href="https://ua.linkedin.com/in/shidlovskys">
   <img height="30" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
