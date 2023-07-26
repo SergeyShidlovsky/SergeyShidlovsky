@@ -3,8 +3,8 @@
 
 <h2 align="left">Aboult me</h3>
 
-- 🔭 I’m currently working on improving QA Autoation process and eveloping tools that simplifies QA Automation
-- 💬 Ask me about allquestions in QA Automation area
+- 🔭 I’m currently working on improving QA Autoation process and developing tools that simplifies QA Automation
+- 💬 Ask me about all questions in QA Automation area
 - 📫 How to reach me: **[LinkedIn](https://ua.linkedin.com/in/shidlovskys)**
 
 <h2 align="left">Tools and technologies I'm working with </h3>
