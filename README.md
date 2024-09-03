@@ -1,9 +1,9 @@
 <h2 align="left">General</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&pause=1000&color=0e75b6&background=2586FF00&width=1200&lines=Hi+there+👋,+I'+m+Sergey+-+QA+Automation+Tech+Lead+from+Ukraine" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&pause=1000&color=0e75b6&background=2586FF00&width=1200&lines=Hi+there+👋,+I'+m+Sergey+-+QA+Automation+Engineer+from+Ukraine" alt="Typing SVG" /></a>
 
 <h2 align="left">Aboult me</h3>
 
-- 🔭 I’m currently working on improving QA Autoation process and developing tools that simplifies QA Automation
+- 🔭 I’m currently working on improving QA Automation process and developing tools that simplifies QA Automation
 - 💬 Ask me about all questions in QA Automation area
 - 📫 How to reach me: **[LinkedIn](https://ua.linkedin.com/in/shidlovskys)**
 
